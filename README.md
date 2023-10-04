@@ -9,8 +9,6 @@
 
 </br>
 
-### Esse site foi desenvolvido como aprendizagem de tecnologias junto a Rocketseat.</a>
-
 <br/>
 
 > Status: Finalizado!
